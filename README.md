@@ -1,3 +1,5 @@
 # Fruit 🍓 Catching Game 🎮
+#
+# fruit.c this code works only Linux and Mac OS.
 
-##It's just Educational purposes 
+This code run Only Code Blocks , VS code, and Turbo C++
