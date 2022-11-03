@@ -1,2 +1,3 @@
-# Fruit-Catching-Game-
-It's just Educational purposes 
+# Fruit 🍓 Catching Game 🎮
+
+##It's just Educational purposes 
